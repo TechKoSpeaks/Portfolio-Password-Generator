@@ -29,13 +29,13 @@ function generatePassword() {
 
 // Inquiring if the user would like lowercase, numbers, upper case, and special characters
 
-    var useLowercase = confirm("Do you want lowercase letters in your password's life?");
+    var useLowercase = confirm("Do you want LOWERCASE LETTERS in your password's life?");
 
-    var useNumbers = confirm("Need some numbers to keep things REAL secure?");
+    var useNumbers = confirm("Need some NUMBERS to keep things REAL secure?");
 
     var useUppercase = confirm("How about some sumptuous UPPER CASE letters to spice up your password?")
 
-    var useCharacter = confirm("Do you want EVEN MORE security with special characters?")
+    var useCharacter = confirm("Do you want EVEN MORE security with SPECIAL CHARACTERS?")
 
 // If user has picked each of the options, pool them and copy to store each option in the pool as a whole (characters, uppercase, numbers and lowercase)
 

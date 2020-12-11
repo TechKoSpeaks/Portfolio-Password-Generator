@@ -2,6 +2,8 @@ Password Generator Read Me
 
 This is a project to deploy a functioning password generator that is utilizable up to 128 characters, using upper case, lower case, numbers, and special characters.
 
+Set up to follow semantic elements within the page and keep things as concise as possible.
+
 
 It follows these rules:
 Click a button to generate a new password, and it presents a series of prompts for password criteria.
@@ -13,14 +15,13 @@ Display password written on the page.
 
 Here is a link to the published page: https://techkospeaks.github.io/Portfolio-Password-Generator/ 
 
-Screenshot is containted within documents as well to deployed application.
+Screenshot is contained within documents as well to deployed application.
 
 
 
 
 ## Review
 
-You are required to submit the following for review:
 
 * The URL of the deployed application.
 
